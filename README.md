@@ -45,20 +45,21 @@
 
 ### 📈 GitHub Stats
 
-![Pramit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pramit44&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit44&layout=compact&theme=radical)
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pramit44&show_icons=true&theme=radical" alt="Pramit's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit44&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:apni_email_yaha_likho@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+<a href="https://linkedin.com/in/apni_linkedin_id_yaha_likho" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+</p>
