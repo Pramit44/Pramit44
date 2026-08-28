@@ -46,10 +46,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Pramit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Pramit44 GitHub Stats" />
 </div>
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the link above with your actual GitHub username to activate the stats card!)*
+
 
 ---
 
