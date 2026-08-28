@@ -45,11 +45,8 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramit44&show_icons=true&theme=radical" alt="Pramit's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit44&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![Pramit's GitHub Streak](https://streak-stats.demolab.com?user=Pramit44&theme=radical&hide_border=true)
+
 
 ---
 
