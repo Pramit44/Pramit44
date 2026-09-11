@@ -4,7 +4,7 @@
 
 <p align="center">
   I am a B.Tech Computer Science & Engineering (Artificial Intelligence) student passionate about building intelligent systems. My core focus lies in developing advanced Deep Learning models and engineering robust, scalable backend architectures to deploy them. 
-</p>
+</p> 
 
 ---
 
