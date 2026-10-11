@@ -1,10 +1,15 @@
 <h1 align="center">Hi there, I'm Pramit! 👋</h1>
 
-<h3 align="center">AI/ML Engineering Student | Turning complex data into actionable insights</h3>
+<h3 align="center">AI/ML Engineering Student | Building intelligent systems with data, models, and APIs</h3>
 
 <p align="center">
-  I am a B.Tech Computer Science & Engineering (Artificial Intelligence) student passionate about building intelligent systems. My core focus lies in developing advanced Deep Learning models and engineering robust, scalable backend architectures to deploy them. 
-</p> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+AI+Projects;FastAPI+%7C+Model+Pipelines" />
+</p>
+
+<p align="center">
+  I am a B.Tech Computer Science & Engineering (Artificial Intelligence) student passionate about building intelligent systems.
+  My focus is on developing deep learning models, data-driven insights, and backend pipelines that turn ideas into real-world solutions.
+</p>
 
 ---
 
@@ -43,20 +48,42 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
 
-![Pramit's GitHub Streak](https://streak-stats.demolab.com?user=Pramit44&theme=radical&hide_border=true)
+<p align="center">
+  <a href="https://github.com/Pramit44/ChatLlamaCpp_CHATBOT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramit44&repo=ChatLlamaCpp_CHATBOT&theme=radical&hide_border=true" alt="ChatLlamaCpp_CHATBOT" />
+  </a>
+  <a href="https://github.com/Pramit44/Supervised-ML-Models">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramit44&repo=Supervised-ML-Models&theme=radical&hide_border=true" alt="Supervised-ML-Models" />
+  </a>
+</p>
 
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pramit44&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit44&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramit44&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:apni_email_yaha_likho@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/apni_linkedin_id_yaha_likho" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <a href="mailto:apni_email_yaha_likho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/apni_linkedin_id_yaha_likho" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
