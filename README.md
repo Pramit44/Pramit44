@@ -195,7 +195,7 @@
   
   ### Let's Build Something Amazing Together! 🚀
   
-  <img src="https://media.giphy.com/media/SvckC9unyBM0G/giphy.gif" width="400px" alt="AI and Technology" />
+  <img src="https://media.giphy.com/media/M9gbBWknSW3kI/giphy.gif" width="400px" alt="AI and Machine Learning" />
   
 </div>
 
