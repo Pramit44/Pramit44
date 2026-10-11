@@ -7,11 +7,14 @@
   <h3>🤖 AI/ML Engineering Student | Building Intelligent Systems & Data Solutions</h3>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;Neural+Networks+%7C+Data+Science;LLMs+%7C+NLP+%7C+Chatbots;Data+Analysis+%7C+Predictive+Models" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;Neural+Network+Architecture;NLP+%7C+LLMs+%7C+Transformers;Data+Science+%7C+Analytics" alt="Typing SVG" />
   </p>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Pramit44&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+  <div>
+    <img src="https://img.shields.io/badge/ML%20Projects-15%2B-7C3AED?style=flat-square" alt="Projects" />
+    <img src="https://img.shields.io/badge/GitHub%20Stars-⭐%20Growing-FFD21E?style=flat-square" alt="Stars" />
+    <img src="https://img.shields.io/badge/Open%20to-Collaborations-00D9FF?style=flat-square" alt="Collaborations" />
+  </div>
 </div>
 
 ---
@@ -149,6 +152,15 @@
 ✨ Real-World Problem Solving
 ```
 
+### 🎯 Stats at a Glance
+
+```
+📊 15+ Completed Projects
+🔥 Specialized in ML & AI
+⚡ Always Learning & Innovating
+🚀 Ready for Collaborations
+```
+
 </div>
 
 ---
@@ -183,7 +195,7 @@
   
   ### Let's Build Something Amazing Together! 🚀
   
-  <img src="https://github.com/Pramit44/Pramit44/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://media.giphy.com/media/SvckC9unyBM0G/giphy.gif" width="400px" alt="AI and Technology" />
   
 </div>
 
