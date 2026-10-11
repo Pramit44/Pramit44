@@ -1,89 +1,147 @@
-<h1 align="center">Hi there, I'm Pramit! 👋</h1>
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px"/>
+    Hi there, I'm Pramit!
+  </h1>
+  
+  <h3>🤖 AI/ML Engineering Student | Building Intelligent Systems</h3>
+  
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;Neural+Networks+%7C+Data+Science;Backend+APIs+%7C+Production+Ready+Solutions;AI+%7C+ML+%7C+Data-Driven+Innovation" alt="Typing Animation" />
+  </p>
 
-<h3 align="center">AI/ML Engineering Student | Building intelligent systems with data, models, and APIs</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+AI+Projects;FastAPI+%7C+Model+Pipelines" />
-</p>
-
-<p align="center">
-  I am a B.Tech Computer Science & Engineering (Artificial Intelligence) student passionate about building intelligent systems.
-  My focus is on developing deep learning models, data-driven insights, and backend pipelines that turn ideas into real-world solutions.
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Currently pursuing my B.Tech in CS-AI.
-- 🎯 Actively building real-world ML projects and looking for opportunities to solve complex data problems.
-- 💡 Specializing in Deep Learning pipelines, data preprocessing, data visualization, and high-performance API backends.
-- 🌱 Currently diving deep into Neural Networks and building production-ready APIs.
-- ⚡ Fun fact: I believe a good ML model is incomplete without a solid backend pipeline!
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Pramit44&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🎯 About Me
 
-**Languages & Databases:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📚 Education & Expertise</h3>
+      <ul>
+        <li>🎓 B.Tech in Computer Science & Engineering (AI)</li>
+        <li>🧠 Specializing in Deep Learning & Neural Networks</li>
+        <li>📊 Data Science & Advanced Analytics</li>
+        <li>⚙️ High-Performance Backend Pipelines</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎯 Current Focus</h3>
+      <ul>
+        <li>🔬 Building production-ready ML models</li>
+        <li>🚀 Developing scalable backend APIs</li>
+        <li>💾 Data preprocessing & optimization</li>
+        <li>🌐 Real-world problem solving</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Machine Learning, Data Science & Visualization:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+> *"A great ML model deserves an equally powerful backend!"* ⚡
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend & Deployment:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### 🚀 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Tools & Version Control:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### 💾 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Pramit44/ChatLlamaCpp_CHATBOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramit44&repo=ChatLlamaCpp_CHATBOT&theme=radical&hide_border=true" alt="ChatLlamaCpp_CHATBOT" />
-  </a>
-  <a href="https://github.com/Pramit44/Supervised-ML-Models">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramit44&repo=Supervised-ML-Models&theme=radical&hide_border=true" alt="Supervised-ML-Models" />
-  </a>
-</p>
+### 📓 Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 GitHub Overview
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramit44&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit44&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramit44&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Pramit44/ChatLlamaCpp_CHATBOT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramit44&repo=ChatLlamaCpp_CHATBOT&theme=radical&hide_border=true&show_owner=true" alt="ChatLlamaCpp_CHATBOT" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Pramit44/Supervised-ML-Models">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pramit44&repo=Supervised-ML-Models&theme=radical&hide_border=true&show_owner=true" alt="Supervised-ML-Models" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 📈 GitHub Analytics
 
-<p align="left">
-  <a href="mailto:apni_email_yaha_likho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/apni_linkedin_id_yaha_likho" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Pramit44&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramit44&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pramit44&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+## 💡 What I Love
+
+<div align="center">
+
+| 🎯 | 💻 | 🧠 | 🌟 |
+|:---:|:---:|:---:|:---:|
+| **Problem Solving** | **Clean Code** | **Innovation** | **Learning** |
+| Tackling complex data challenges | Building maintainable solutions | Creating intelligent systems | Growing every day |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apni_email_yaha_likho@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apni_linkedin_id_yaha_likho)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pramit44)
+
+  <br />
+  
+  <sub>⭐ Feel free to star my repositories if you find them useful! 🚀</sub>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Pramit44/Pramit44/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
