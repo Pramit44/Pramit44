@@ -1,7 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px"/>
-    Hi there, I'm Pramit!
+    👋 Hi there, I'm Pramit!
   </h1>
   
   <h3>🤖 AI/ML Engineering Student | Building Intelligent Systems & Data Solutions</h3>
@@ -195,7 +194,8 @@
   
   ### Let's Build Something Amazing Together! 🚀
   
-  <img src="https://media.giphy.com/media/M9gbBWknSW3kI/giphy.gif" width="400px" alt="AI and Machine Learning" />
+  💻 **Building the Future of AI** 🚀  
+  🔬 **Research | Development | Innovation**
   
 </div>
 
